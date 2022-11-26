@@ -1,4 +1,4 @@
-# Deforestation_SQL_Udacity
+# Deforestation_SQL
 SQL project that uses queries to study deforestation worldwide.
 
 # Project Overview
