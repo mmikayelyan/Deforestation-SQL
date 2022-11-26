@@ -5,7 +5,10 @@ SQL project that uses queries to study deforestation worldwide.
 In this project, I used SQL to explore data related to deforestation around the world in order to find which countries and regions around the world appear to have forests that have been shrinking in size, along with which countries and regions have the largest forest area, both in terms of amount and percent of total area.
 
 # The Datasets
-I used datasets provided by [The World Bank](https://www.worldbank.org/en/home), containing a global deforestation overview between 1990 and 2016. You can find the datasets in the data folder, which consist of three CSV files. 
+I used datasets provided by [The World Bank](https://www.worldbank.org/en/home), containing a global deforestation overview between 1990 and 2016. You can find the datasets in the data folder, which consist of three CSV files:
+ - forest_area
+ - land_area
+ - regions
 
 # Outcomes
 I've written SQL queries to provide the following information:
@@ -33,8 +36,8 @@ As a result of the above, I have prepared a report to help understand the global
 * Language: SQL
 
 # Get started with the project
-
-The first step is to download the DB and the DB.sqbpro files. The second step is to open the DB.sqbpro as a project in SQLite. Scripts for running the queries are also attached to the report.
+- Download and install [DB Viewer](https://sqlitebrowser.org/dl/) for SQLite or use another tool of your choice that can load SQLite db file and run the queries.
+- The first step is to download the DB and the DB.sqbpro files. The second step is to open the DB.sqbpro as a project in SQLite. Scripts for running the queries are also attached to the report.
 
 # Author
 
