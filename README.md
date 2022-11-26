@@ -34,7 +34,7 @@ As a result of the above, I have prepared a report to help understand the global
 
 # Get started with the project
 
-The SQL scripts attached to the report can be used to run the queries.
+The first step is to download the DB and the DB.sqbpro files. The second step is to open the DB.sqbpro as a project in SQLite. Scripts for running the queries are also attached to the report.
 
 # Author
 
